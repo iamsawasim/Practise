@@ -1,4 +1,10 @@
 what is this
+<<<<<<< HEAD
 what is that
 i changed here 
 did u change there
+=======
+who am i
+what is that
+who are u
+>>>>>>> e452eccf08566915055df5472c63dcf95e2019b8
